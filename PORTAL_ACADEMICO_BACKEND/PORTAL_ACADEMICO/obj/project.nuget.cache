@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MroaiQzOqWI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO\\PORTAL_ACADEMICO\\PORTAL_ACADEMICO_DOMAIN.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\manue\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

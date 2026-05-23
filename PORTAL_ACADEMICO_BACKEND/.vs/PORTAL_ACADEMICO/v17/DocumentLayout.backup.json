@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A20105FF-1C53-44BF-9038-524C04127CD8}|PORTAL_ACADEMICO\\PORTAL_ACADEMICO_DOMAIN.csproj|c:\\users\\manue\\onedrive\\escritorio\\diarso\\portal_academico\\portal_academico\\matricula\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A20105FF-1C53-44BF-9038-524C04127CD8}|PORTAL_ACADEMICO\\PORTAL_ACADEMICO_DOMAIN.csproj|solutionrelative:portal_academico\\matricula\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A20105FF-1C53-44BF-9038-524C04127CD8}|PORTAL_ACADEMICO\\PORTAL_ACADEMICO_DOMAIN.csproj|c:\\users\\manue\\onedrive\\escritorio\\diarso\\portal_academico\\portal_academico\\becas\\beca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A20105FF-1C53-44BF-9038-524C04127CD8}|PORTAL_ACADEMICO\\PORTAL_ACADEMICO_DOMAIN.csproj|solutionrelative:portal_academico\\becas\\beca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 497,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Matricula.cs",
+              "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO\\PORTAL_ACADEMICO\\Matricula\\Matricula.cs",
+              "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Matricula\\Matricula.cs",
+              "ToolTip": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO\\PORTAL_ACADEMICO\\Matricula\\Matricula.cs",
+              "RelativeToolTip": "PORTAL_ACADEMICO\\Matricula\\Matricula.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAwEYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T03:36:04.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Beca.cs",
+              "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO\\PORTAL_ACADEMICO\\Becas\\Beca.cs",
+              "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Becas\\Beca.cs",
+              "ToolTip": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO\\PORTAL_ACADEMICO\\Becas\\Beca.cs",
+              "RelativeToolTip": "PORTAL_ACADEMICO\\Becas\\Beca.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T08:49:53.428Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
