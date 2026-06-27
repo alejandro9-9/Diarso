@@ -84,6 +84,6 @@ public sealed class Ciclo: Entity {
     public void Delete()
     {
         Is_Active = false;
-        AddDomainEvent(new MatriculaDeletedEvent(Id));
+        AddDomainEvent(new CicloDeletedEvent(Id));
     }
 }

@@ -20,16 +20,10 @@ public sealed class Alumno : Entity {
 
     private Alumno() { }
 
-
-
     public Guid Id_Rol { get; private set; }
-
     public Nombres Nombres { get; private set; }
-
     public Celular Celular { get; private set; }
-
     public Correo Correo { get; private set; }
-
     public bool IsActive { get; private set; }
 
 
