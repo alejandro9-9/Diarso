@@ -22,7 +22,7 @@ public bool IsActive { get; private set; }
 
     private Curso() { }
 
-    public Curso(Guid categoria_Curso, String nombre_Curso, Guid ciclo_Curso, int creditos_Curso, bool isActive)
+    public Curso(Guid Id,Guid categoria_Curso, String nombre_Curso, Guid ciclo_Curso, int creditos_Curso, bool isActive) : base(Id)
     {
         Categoria_Curso = categoria_Curso;
         Nombre_Curso = nombre_Curso;
@@ -34,8 +34,8 @@ public bool IsActive { get; private set; }
 
     public static Curso Create(Guid categoria_Curso, string nombre_Curso, Guid ciclo_Curso, int creditos_Curso)
     {
-        var result = new Curso(categoria_Curso, nombre_Curso, ciclo_Curso, creditos_Curso, true);
-        result.AddDomainEvent(new CursoCreatedEvent(result.Categoria_Curso));
+        var result = new Curso(Guid.NewGuid(),categoria_Curso, nombre_Curso, ciclo_Curso, creditos_Curso, true);
+        result.AddDomainEvent(new CursoCreatedEvent(result.Id));
         return result;
     }
 
@@ -45,12 +45,12 @@ public bool IsActive { get; private set; }
         Nombre_Curso = nombre_Curso;
         Ciclo_Curso = ciclo_Curso;
         Creditos_Curso = creditos_Curso;
-        AddDomainEvent(new CursoUpdatedEvent(Categoria_Curso));
+        AddDomainEvent(new CursoUpdatedEvent(Id));
     }
 
     public void Delete()
     {
         IsActive = false;
-        AddDomainEvent(new CursoDeletedEvent(Categoria_Curso));
+        AddDomainEvent(new CursoDeletedEvent(Id));
     }   
 }

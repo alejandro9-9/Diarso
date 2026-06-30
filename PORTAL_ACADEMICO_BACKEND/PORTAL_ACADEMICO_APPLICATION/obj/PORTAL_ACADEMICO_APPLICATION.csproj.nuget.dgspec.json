@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO\\PORTAL_ACADEMICO_APPLICATION\\PORTAL_ACADEMICO_APPLICATION.csproj": {}
+    "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO_APPLICATION\\PORTAL_ACADEMICO_APPLICATION.csproj": {}
   },
   "projects": {
-    "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO\\PORTAL_ACADEMICO_APPLICATION\\PORTAL_ACADEMICO_APPLICATION.csproj": {
+    "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO_APPLICATION\\PORTAL_ACADEMICO_APPLICATION.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO\\PORTAL_ACADEMICO_APPLICATION\\PORTAL_ACADEMICO_APPLICATION.csproj",
+        "projectUniqueName": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO_APPLICATION\\PORTAL_ACADEMICO_APPLICATION.csproj",
         "projectName": "PORTAL_ACADEMICO_APPLICATION",
-        "projectPath": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO\\PORTAL_ACADEMICO_APPLICATION\\PORTAL_ACADEMICO_APPLICATION.csproj",
+        "projectPath": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO_APPLICATION\\PORTAL_ACADEMICO_APPLICATION.csproj",
         "packagesPath": "C:\\Users\\manue\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO\\PORTAL_ACADEMICO_APPLICATION\\obj\\",
+        "outputPath": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO_APPLICATION\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

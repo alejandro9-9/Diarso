@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8jH/lQOLYeE=",
+  "dgSpecHash": "bUNYngmuHRU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO\\PORTAL_ACADEMICO_APPLICATION\\PORTAL_ACADEMICO_APPLICATION.csproj",
+  "projectFilePath": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO_APPLICATION\\PORTAL_ACADEMICO_APPLICATION.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\manue\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.11\\microsoft.windowsdesktop.app.ref.9.0.11.nupkg.sha512",
     "C:\\Users\\manue\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.11\\microsoft.netcore.app.ref.9.0.11.nupkg.sha512",

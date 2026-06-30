@@ -1,14 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO\\",
+  "WorkspaceRootPath": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A20105FF-1C53-44BF-9038-524C04127CD8}|PORTAL_ACADEMICO\\PORTAL_ACADEMICO_DOMAIN.csproj|c:\\users\\manue\\onedrive\\escritorio\\diarso\\portal_academico\\portal_academico\\matricula\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A20105FF-1C53-44BF-9038-524C04127CD8}|PORTAL_ACADEMICO\\PORTAL_ACADEMICO_DOMAIN.csproj|solutionrelative:portal_academico\\matricula\\matricula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A20105FF-1C53-44BF-9038-524C04127CD8}|PORTAL_ACADEMICO\\PORTAL_ACADEMICO_DOMAIN.csproj|c:\\users\\manue\\onedrive\\escritorio\\diarso\\portal_academico_backend\\portal_academico\\ticket\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A20105FF-1C53-44BF-9038-524C04127CD8}|PORTAL_ACADEMICO\\PORTAL_ACADEMICO_DOMAIN.csproj|solutionrelative:portal_academico\\ticket\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A20105FF-1C53-44BF-9038-524C04127CD8}|PORTAL_ACADEMICO\\PORTAL_ACADEMICO_DOMAIN.csproj|c:\\users\\manue\\onedrive\\escritorio\\diarso\\portal_academico\\portal_academico\\becas\\beca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A20105FF-1C53-44BF-9038-524C04127CD8}|PORTAL_ACADEMICO\\PORTAL_ACADEMICO_DOMAIN.csproj|solutionrelative:portal_academico\\becas\\beca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A20105FF-1C53-44BF-9038-524C04127CD8}|PORTAL_ACADEMICO\\PORTAL_ACADEMICO_DOMAIN.csproj|c:\\users\\manue\\onedrive\\escritorio\\diarso\\portal_academico_backend\\portal_academico\\ticket\\iticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A20105FF-1C53-44BF-9038-524C04127CD8}|PORTAL_ACADEMICO\\PORTAL_ACADEMICO_DOMAIN.csproj|solutionrelative:portal_academico\\ticket\\iticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A20105FF-1C53-44BF-9038-524C04127CD8}|PORTAL_ACADEMICO\\PORTAL_ACADEMICO_DOMAIN.csproj|c:\\users\\manue\\onedrive\\escritorio\\diarso\\portal_academico_backend\\portal_academico\\ticket\\ticketdeletedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A20105FF-1C53-44BF-9038-524C04127CD8}|PORTAL_ACADEMICO\\PORTAL_ACADEMICO_DOMAIN.csproj|solutionrelative:portal_academico\\ticket\\ticketdeletedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A20105FF-1C53-44BF-9038-524C04127CD8}|PORTAL_ACADEMICO\\PORTAL_ACADEMICO_DOMAIN.csproj|c:\\users\\manue\\onedrive\\escritorio\\diarso\\portal_academico_backend\\portal_academico\\ticket\\ticketcreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A20105FF-1C53-44BF-9038-524C04127CD8}|PORTAL_ACADEMICO\\PORTAL_ACADEMICO_DOMAIN.csproj|solutionrelative:portal_academico\\ticket\\ticketcreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A20105FF-1C53-44BF-9038-524C04127CD8}|PORTAL_ACADEMICO\\PORTAL_ACADEMICO_DOMAIN.csproj|c:\\users\\manue\\onedrive\\escritorio\\diarso\\portal_academico_backend\\portal_academico\\ticket\\ticketupdatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A20105FF-1C53-44BF-9038-524C04127CD8}|PORTAL_ACADEMICO\\PORTAL_ACADEMICO_DOMAIN.csproj|solutionrelative:portal_academico\\ticket\\ticketupdatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A20105FF-1C53-44BF-9038-524C04127CD8}|PORTAL_ACADEMICO\\PORTAL_ACADEMICO_DOMAIN.csproj|c:\\users\\manue\\onedrive\\escritorio\\diarso\\portal_academico_backend\\portal_academico\\profesor\\profesorcreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A20105FF-1C53-44BF-9038-524C04127CD8}|PORTAL_ACADEMICO\\PORTAL_ACADEMICO_DOMAIN.csproj|solutionrelative:portal_academico\\profesor\\profesorcreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A20105FF-1C53-44BF-9038-524C04127CD8}|PORTAL_ACADEMICO\\PORTAL_ACADEMICO_DOMAIN.csproj|c:\\users\\manue\\onedrive\\escritorio\\diarso\\portal_academico_backend\\portal_academico\\alumno_perfil\\alumno_perfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A20105FF-1C53-44BF-9038-524C04127CD8}|PORTAL_ACADEMICO\\PORTAL_ACADEMICO_DOMAIN.csproj|solutionrelative:portal_academico\\alumno_perfil\\alumno_perfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A20105FF-1C53-44BF-9038-524C04127CD8}|PORTAL_ACADEMICO\\PORTAL_ACADEMICO_DOMAIN.csproj|c:\\users\\manue\\onedrive\\escritorio\\diarso\\portal_academico_backend\\portal_academico\\curso\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A20105FF-1C53-44BF-9038-524C04127CD8}|PORTAL_ACADEMICO\\PORTAL_ACADEMICO_DOMAIN.csproj|solutionrelative:portal_academico\\curso\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A20105FF-1C53-44BF-9038-524C04127CD8}|PORTAL_ACADEMICO\\PORTAL_ACADEMICO_DOMAIN.csproj|c:\\users\\manue\\onedrive\\escritorio\\diarso\\portal_academico_backend\\portal_academico\\profesor\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A20105FF-1C53-44BF-9038-524C04127CD8}|PORTAL_ACADEMICO\\PORTAL_ACADEMICO_DOMAIN.csproj|solutionrelative:portal_academico\\profesor\\profesor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +46,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 497,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Matricula.cs",
-              "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO\\PORTAL_ACADEMICO\\Matricula\\Matricula.cs",
-              "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Matricula\\Matricula.cs",
-              "ToolTip": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO\\PORTAL_ACADEMICO\\Matricula\\Matricula.cs",
-              "RelativeToolTip": "PORTAL_ACADEMICO\\Matricula\\Matricula.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAAwEYAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T03:36:04.134Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -40,14 +55,118 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Beca.cs",
-              "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO\\PORTAL_ACADEMICO\\Becas\\Beca.cs",
-              "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Becas\\Beca.cs",
-              "ToolTip": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO\\PORTAL_ACADEMICO\\Becas\\Beca.cs",
-              "RelativeToolTip": "PORTAL_ACADEMICO\\Becas\\Beca.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBUAAAAAAAAAAAAAAA==",
+              "Title": "ITicketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Ticket\\ITicketRepository.cs",
+              "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Ticket\\ITicketRepository.cs",
+              "ToolTip": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Ticket\\ITicketRepository.cs",
+              "RelativeToolTip": "PORTAL_ACADEMICO\\Ticket\\ITicketRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-20T08:49:53.428Z",
+              "WhenOpened": "2026-06-30T12:25:05.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TicketUpdatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Ticket\\TicketUpdatedEvent.cs",
+              "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Ticket\\TicketUpdatedEvent.cs",
+              "ToolTip": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Ticket\\TicketUpdatedEvent.cs",
+              "RelativeToolTip": "PORTAL_ACADEMICO\\Ticket\\TicketUpdatedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T11:36:20.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TicketDeletedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Ticket\\TicketDeletedEvent.cs",
+              "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Ticket\\TicketDeletedEvent.cs",
+              "ToolTip": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Ticket\\TicketDeletedEvent.cs",
+              "RelativeToolTip": "PORTAL_ACADEMICO\\Ticket\\TicketDeletedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T11:36:06.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProfesorCreatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Profesor\\ProfesorCreatedEvent.cs",
+              "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Profesor\\ProfesorCreatedEvent.cs",
+              "ToolTip": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Profesor\\ProfesorCreatedEvent.cs",
+              "RelativeToolTip": "PORTAL_ACADEMICO\\Profesor\\ProfesorCreatedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T11:35:51.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TicketCreatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Ticket\\TicketCreatedEvent.cs",
+              "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Ticket\\TicketCreatedEvent.cs",
+              "ToolTip": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Ticket\\TicketCreatedEvent.cs",
+              "RelativeToolTip": "PORTAL_ACADEMICO\\Ticket\\TicketCreatedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T11:35:45.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Curso\\Curso.cs",
+              "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Curso\\Curso.cs",
+              "ToolTip": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Curso\\Curso.cs",
+              "RelativeToolTip": "PORTAL_ACADEMICO\\Curso\\Curso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T11:29:05.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Alumno_Perfil.cs",
+              "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Alumno_Perfil\\Alumno_Perfil.cs",
+              "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Alumno_Perfil\\Alumno_Perfil.cs",
+              "ToolTip": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Alumno_Perfil\\Alumno_Perfil.cs",
+              "RelativeToolTip": "PORTAL_ACADEMICO\\Alumno_Perfil\\Alumno_Perfil.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAxwDIAAAChAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T11:28:41.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Ticket\\Ticket.cs",
+              "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Ticket\\Ticket.cs",
+              "ToolTip": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Ticket\\Ticket.cs",
+              "RelativeToolTip": "PORTAL_ACADEMICO\\Ticket\\Ticket.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAD4vzUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T11:26:39.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Profesor.cs",
+              "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Profesor\\Profesor.cs",
+              "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Profesor\\Profesor.cs",
+              "ToolTip": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Profesor\\Profesor.cs",
+              "RelativeToolTip": "PORTAL_ACADEMICO\\Profesor\\Profesor.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-30T10:37:30.292Z",
               "EditorCaption": ""
             }
           ]
