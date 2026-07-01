@@ -1,0 +1,13 @@
+C:\Users\manue\OneDrive\Escritorio\Diarso\PORTAL_ACADEMICO_BACKEND\PORTAL_ACADEMICO\obj\Debug\net10.0\PORTAL_ACADEMICO_DOMAIN.csproj.AssemblyReference.cache
+C:\Users\manue\OneDrive\Escritorio\Diarso\PORTAL_ACADEMICO_BACKEND\PORTAL_ACADEMICO\obj\Debug\net10.0\PORTAL_ACADEMICO_DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\OneDrive\Escritorio\Diarso\PORTAL_ACADEMICO_BACKEND\PORTAL_ACADEMICO\obj\Debug\net10.0\PORTAL_ACADEMICO_DOMAIN.AssemblyInfoInputs.cache
+C:\Users\manue\OneDrive\Escritorio\Diarso\PORTAL_ACADEMICO_BACKEND\PORTAL_ACADEMICO\obj\Debug\net10.0\PORTAL_ACADEMICO_DOMAIN.AssemblyInfo.cs
+C:\Users\manue\OneDrive\Escritorio\Diarso\PORTAL_ACADEMICO_BACKEND\PORTAL_ACADEMICO\obj\Debug\net10.0\PORTAL_ACADEMICO_DOMAIN.csproj.CoreCompileInputs.cache
+C:\Users\manue\OneDrive\Escritorio\Diarso\PORTAL_ACADEMICO_BACKEND\PORTAL_ACADEMICO\obj\Debug\net10.0\PORTAL_ACADEMICO_DOMAIN.sourcelink.json
+C:\Users\manue\OneDrive\Escritorio\Diarso\PORTAL_ACADEMICO_BACKEND\PORTAL_ACADEMICO\bin\Debug\net10.0\PORTAL_ACADEMICO_DOMAIN.deps.json
+C:\Users\manue\OneDrive\Escritorio\Diarso\PORTAL_ACADEMICO_BACKEND\PORTAL_ACADEMICO\bin\Debug\net10.0\PORTAL_ACADEMICO_DOMAIN.dll
+C:\Users\manue\OneDrive\Escritorio\Diarso\PORTAL_ACADEMICO_BACKEND\PORTAL_ACADEMICO\bin\Debug\net10.0\PORTAL_ACADEMICO_DOMAIN.pdb
+C:\Users\manue\OneDrive\Escritorio\Diarso\PORTAL_ACADEMICO_BACKEND\PORTAL_ACADEMICO\obj\Debug\net10.0\PORTAL_ACADEMICO_DOMAIN.dll
+C:\Users\manue\OneDrive\Escritorio\Diarso\PORTAL_ACADEMICO_BACKEND\PORTAL_ACADEMICO\obj\Debug\net10.0\refint\PORTAL_ACADEMICO_DOMAIN.dll
+C:\Users\manue\OneDrive\Escritorio\Diarso\PORTAL_ACADEMICO_BACKEND\PORTAL_ACADEMICO\obj\Debug\net10.0\PORTAL_ACADEMICO_DOMAIN.pdb
+C:\Users\manue\OneDrive\Escritorio\Diarso\PORTAL_ACADEMICO_BACKEND\PORTAL_ACADEMICO\obj\Debug\net10.0\ref\PORTAL_ACADEMICO_DOMAIN.dll
