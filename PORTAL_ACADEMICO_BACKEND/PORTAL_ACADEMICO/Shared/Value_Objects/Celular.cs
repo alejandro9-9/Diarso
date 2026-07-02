@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Linq.Expressions;
 using System.Text;
-using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace PORTAL_ACADEMICO_DOMAIN.Shared.Value_Objects;
 
@@ -27,7 +26,7 @@ public sealed record Celular {
 
     public static Celular Create(string cod_area, string numero) {
 
-        if (!CodigosDeArea.Equals(cod_area)) {
+        if (!CodigosDeArea.Contains(cod_area)) {
             throw new ArgumentException("Código de área inválido");
         }
         if (numero.Length != 9) {
@@ -41,7 +40,7 @@ public sealed record Celular {
     }
 
     public Celular Edit(string cod_area, string numero) {
-        if (!CodigosDeArea.Equals(cod_area))
+        if (!CodigosDeArea.Contains(cod_area))
         {
             throw new ArgumentException("Código de área inválido");
         }

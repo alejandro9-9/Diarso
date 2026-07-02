@@ -31,7 +31,7 @@ public sealed class Alumno : Entity {
     {
         var result = new Alumno(Guid.NewGuid(), id_rol, nombres, celular, correo, true);
         result.AddDomainEvent(new AlumnoCreatedEvent(result.Id));
-        return new Alumno();
+        return result;
     }
 
     public void Update(Guid id_rol, Nombres nombres, Celular celular, Correo correo) {

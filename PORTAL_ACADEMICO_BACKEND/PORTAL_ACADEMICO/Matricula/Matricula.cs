@@ -8,7 +8,8 @@ namespace PORTAL_ACADEMICO_DOMAIN.Matricula;
 public sealed class Matricula : Entity
 {
 
-    public Guid Id_Matricula { get; private set; }
+    public Guid Id_Ciclo { get; private set; }
+
     public string Nombre_Matricula { get; private set; }
 
     public DateTime Periodo_Pago_Inicio { get; private set; }
@@ -21,9 +22,9 @@ public sealed class Matricula : Entity
 
     private Matricula() { }
 
-    public Matricula(Guid Id,Guid id_Matricula, string nombre_Matricula, DateTime periodo_Pago_Inicio, DateTime periodo_Pago_Final, double costo_Matricula, bool is_Active): base(Id)
+    public Matricula(Guid Id, Guid id_Ciclo, string nombre_Matricula, DateTime periodo_Pago_Inicio, DateTime periodo_Pago_Final, double costo_Matricula, bool is_Active): base(Id)
     {
-        Id_Matricula = id_Matricula;
+        Id_Ciclo = id_Ciclo;
         Nombre_Matricula = nombre_Matricula;
         Periodo_Pago_Inicio = periodo_Pago_Inicio;
         Periodo_Pago_Final = periodo_Pago_Final;
@@ -31,7 +32,7 @@ public sealed class Matricula : Entity
         Is_Active = is_Active;
     }
 
-    public static Result<Matricula> Create(Guid id_matricula, string nombre_matricula, DateTime periodo_pago_inicio, DateTime periodo_pago_final, double costo_matricula)
+    public static Result<Matricula> Create(Guid id_ciclo, string nombre_matricula, DateTime periodo_pago_inicio, DateTime periodo_pago_final, double costo_matricula)
     {
         if(periodo_pago_inicio > periodo_pago_final)
         {
@@ -41,12 +42,12 @@ public sealed class Matricula : Entity
 
             return  Result.Failure<Matricula>(MatriculaErrors.DiferenciaMaxima);
         }
-        var result = new Matricula(Guid.NewGuid(), id_matricula, nombre_matricula, periodo_pago_inicio, periodo_pago_final, costo_matricula, true);
+        var result = new Matricula(Guid.NewGuid(), id_ciclo, nombre_matricula, periodo_pago_inicio, periodo_pago_final, costo_matricula, true);
         result.AddDomainEvent(new MatriculaCreatedEvent(result.Id));
         return Result.Success(result);
     }
 
-    public Result Update(string nombre_matricula, DateTime periodo_pago_inicio, DateTime periodo_pago_final, double costo_matricula)
+    public Result Update(Guid id_ciclo, string nombre_matricula, DateTime periodo_pago_inicio, DateTime periodo_pago_final, double costo_matricula)
     {
         if(periodo_pago_inicio > periodo_pago_final)
         {
@@ -56,6 +57,7 @@ public sealed class Matricula : Entity
 
             return  Result.Failure<Matricula>(MatriculaErrors.DiferenciaMaxima);
         }
+        Id_Ciclo = id_ciclo;
         Nombre_Matricula = nombre_matricula;
         Periodo_Pago_Inicio = periodo_pago_inicio;
         Periodo_Pago_Final = periodo_pago_final;

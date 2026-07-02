@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A20105FF-1C53-44BF-9038-524C04127CD8}|PORTAL_ACADEMICO\\PORTAL_ACADEMICO_DOMAIN.csproj|c:\\users\\manue\\onedrive\\escritorio\\diarso\\portal_academico_backend\\portal_academico\\ciclo\\ciclo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A20105FF-1C53-44BF-9038-524C04127CD8}|PORTAL_ACADEMICO\\PORTAL_ACADEMICO_DOMAIN.csproj|solutionrelative:portal_academico\\ciclo\\ciclo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A20105FF-1C53-44BF-9038-524C04127CD8}|PORTAL_ACADEMICO\\PORTAL_ACADEMICO_DOMAIN.csproj|c:\\users\\manue\\onedrive\\escritorio\\diarso\\portal_academico_backend\\portal_academico\\alumno\\ialumnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A20105FF-1C53-44BF-9038-524C04127CD8}|PORTAL_ACADEMICO\\PORTAL_ACADEMICO_DOMAIN.csproj|solutionrelative:portal_academico\\alumno\\ialumnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A20105FF-1C53-44BF-9038-524C04127CD8}|PORTAL_ACADEMICO\\PORTAL_ACADEMICO_DOMAIN.csproj|c:\\users\\manue\\onedrive\\escritorio\\diarso\\portal_academico_backend\\portal_academico\\alumno_pagos\\alumno_pagosupdatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A20105FF-1C53-44BF-9038-524C04127CD8}|PORTAL_ACADEMICO\\PORTAL_ACADEMICO_DOMAIN.csproj|solutionrelative:portal_academico\\alumno_pagos\\alumno_pagosupdatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A20105FF-1C53-44BF-9038-524C04127CD8}|PORTAL_ACADEMICO\\PORTAL_ACADEMICO_DOMAIN.csproj|c:\\users\\manue\\onedrive\\escritorio\\diarso\\portal_academico_backend\\portal_academico\\ticket\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A20105FF-1C53-44BF-9038-524C04127CD8}|PORTAL_ACADEMICO\\PORTAL_ACADEMICO_DOMAIN.csproj|solutionrelative:portal_academico\\ticket\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A20105FF-1C53-44BF-9038-524C04127CD8}|PORTAL_ACADEMICO\\PORTAL_ACADEMICO_DOMAIN.csproj|c:\\users\\manue\\onedrive\\escritorio\\diarso\\portal_academico_backend\\portal_academico\\emergencia_contacto\\emergencia_contactocreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A20105FF-1C53-44BF-9038-524C04127CD8}|PORTAL_ACADEMICO\\PORTAL_ACADEMICO_DOMAIN.csproj|solutionrelative:portal_academico\\emergencia_contacto\\emergencia_contactocreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A20105FF-1C53-44BF-9038-524C04127CD8}|PORTAL_ACADEMICO\\PORTAL_ACADEMICO_DOMAIN.csproj|c:\\users\\manue\\onedrive\\escritorio\\diarso\\portal_academico_backend\\portal_academico\\emergencia_contacto\\emergencia_contactoupdatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -133,10 +137,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A20105FF-1C53-44BF-9038-524C04127CD8}|PORTAL_ACADEMICO\\PORTAL_ACADEMICO_DOMAIN.csproj|c:\\users\\manue\\onedrive\\escritorio\\diarso\\portal_academico_backend\\portal_academico\\curso_horario\\curso_horariodeletedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A20105FF-1C53-44BF-9038-524C04127CD8}|PORTAL_ACADEMICO\\PORTAL_ACADEMICO_DOMAIN.csproj|solutionrelative:portal_academico\\curso_horario\\curso_horariodeletedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A20105FF-1C53-44BF-9038-524C04127CD8}|PORTAL_ACADEMICO\\PORTAL_ACADEMICO_DOMAIN.csproj|c:\\users\\manue\\onedrive\\escritorio\\diarso\\portal_academico_backend\\portal_academico\\ciclo\\ciclo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A20105FF-1C53-44BF-9038-524C04127CD8}|PORTAL_ACADEMICO\\PORTAL_ACADEMICO_DOMAIN.csproj|solutionrelative:portal_academico\\ciclo\\ciclo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A20105FF-1C53-44BF-9038-524C04127CD8}|PORTAL_ACADEMICO\\PORTAL_ACADEMICO_DOMAIN.csproj|c:\\users\\manue\\onedrive\\escritorio\\diarso\\portal_academico_backend\\portal_academico\\mensualidad\\mensualidadupdatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -322,37 +322,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 497,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Emergencia_ContactoCreatedEvent.cs",
-              "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Emergencia_Contacto\\Emergencia_ContactoCreatedEvent.cs",
-              "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Emergencia_Contacto\\Emergencia_ContactoCreatedEvent.cs",
-              "ToolTip": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Emergencia_Contacto\\Emergencia_ContactoCreatedEvent.cs",
-              "RelativeToolTip": "PORTAL_ACADEMICO\\Emergencia_Contacto\\Emergencia_ContactoCreatedEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "IAlumnoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Alumno\\IAlumnoRepository.cs",
+              "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Alumno\\IAlumnoRepository.cs",
+              "ToolTip": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Alumno\\IAlumnoRepository.cs",
+              "RelativeToolTip": "PORTAL_ACADEMICO\\Alumno\\IAlumnoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T14:34:30.751Z",
+              "WhenOpened": "2026-07-02T10:12:25.241Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Emergencia_ContactoUpdatedEvent.cs",
-              "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Emergencia_Contacto\\Emergencia_ContactoUpdatedEvent.cs",
-              "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Emergencia_Contacto\\Emergencia_ContactoUpdatedEvent.cs",
-              "ToolTip": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Emergencia_Contacto\\Emergencia_ContactoUpdatedEvent.cs",
-              "RelativeToolTip": "PORTAL_ACADEMICO\\Emergencia_Contacto\\Emergencia_ContactoUpdatedEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T14:34:29.761Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Emergencia_ContactoDeletedEvent.cs",
               "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Emergencia_Contacto\\Emergencia_ContactoDeletedEvent.cs",
               "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Emergencia_Contacto\\Emergencia_ContactoDeletedEvent.cs",
@@ -360,12 +351,11 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Emergencia_Contacto\\Emergencia_ContactoDeletedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T14:34:27.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T14:34:27.645Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Ticket.cs",
               "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Ticket\\Ticket.cs",
               "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Ticket\\Ticket.cs",
@@ -373,12 +363,11 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Ticket\\Ticket.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAkwDsAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T14:33:48.237Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T14:33:48.237Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Emergencia_Contacto.cs",
               "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Emergencia_Contacto\\Emergencia_Contacto.cs",
               "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Emergencia_Contacto\\Emergencia_Contacto.cs",
@@ -386,12 +375,11 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Emergencia_Contacto\\Emergencia_Contacto.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAxwD4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T14:29:00.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T14:29:00.579Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Curso_PrerequisitoDeletedEvent.cs",
               "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Curso_Prerequisito\\Curso_PrerequisitoDeletedEvent.cs",
               "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Curso_Prerequisito\\Curso_PrerequisitoDeletedEvent.cs",
@@ -399,25 +387,24 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Curso_Prerequisito\\Curso_PrerequisitoDeletedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T14:08:40.128Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T14:08:40.128Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Alumno_PagosUpdatedEvent.cs",
               "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Alumno_Pagos\\Alumno_PagosUpdatedEvent.cs",
               "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Alumno_Pagos\\Alumno_PagosUpdatedEvent.cs",
               "ToolTip": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Alumno_Pagos\\Alumno_PagosUpdatedEvent.cs",
               "RelativeToolTip": "PORTAL_ACADEMICO\\Alumno_Pagos\\Alumno_PagosUpdatedEvent.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-01T11:01:22.854Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Curso_PrerequisitoCreatedEvent.cs",
               "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Curso_Prerequisito\\Curso_PrerequisitoCreatedEvent.cs",
               "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Curso_Prerequisito\\Curso_PrerequisitoCreatedEvent.cs",
@@ -425,12 +412,36 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Curso_Prerequisito\\Curso_PrerequisitoCreatedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T14:08:21.689Z",
+              "WhenOpened": "2026-07-01T14:08:21.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ciclo.cs",
+              "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Ciclo\\Ciclo.cs",
+              "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Ciclo\\Ciclo.cs",
+              "ToolTip": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Ciclo\\Ciclo.cs",
+              "RelativeToolTip": "PORTAL_ACADEMICO\\Ciclo\\Ciclo.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T13:09:20.607Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
+              "Title": "Emergencia_ContactoUpdatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Emergencia_Contacto\\Emergencia_ContactoUpdatedEvent.cs",
+              "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Emergencia_Contacto\\Emergencia_ContactoUpdatedEvent.cs",
+              "ToolTip": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Emergencia_Contacto\\Emergencia_ContactoUpdatedEvent.cs",
+              "RelativeToolTip": "PORTAL_ACADEMICO\\Emergencia_Contacto\\Emergencia_ContactoUpdatedEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T14:34:29.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Curso_PrerequisitoUpdatedEvent.cs",
               "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Curso_Prerequisito\\Curso_PrerequisitoUpdatedEvent.cs",
               "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Curso_Prerequisito\\Curso_PrerequisitoUpdatedEvent.cs",
@@ -438,12 +449,11 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Curso_Prerequisito\\Curso_PrerequisitoUpdatedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T14:08:28.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T14:08:28.331Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ITicket_CategoriaRepository.cs",
               "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Ticket_Categoria\\ITicket_CategoriaRepository.cs",
               "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Ticket_Categoria\\ITicket_CategoriaRepository.cs",
@@ -451,12 +461,11 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Ticket_Categoria\\ITicket_CategoriaRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T10:56:35.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T10:56:35.937Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ICurso_PrerequisitoRepository.cs",
               "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Curso_Prerequisito\\ICurso_PrerequisitoRepository.cs",
               "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Curso_Prerequisito\\ICurso_PrerequisitoRepository.cs",
@@ -464,12 +473,11 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Curso_Prerequisito\\ICurso_PrerequisitoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T14:08:51.262Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T14:08:51.262Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Curso_Prerequisito.cs",
               "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Curso_Prerequisito\\Curso_Prerequisito.cs",
               "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Curso_Prerequisito\\Curso_Prerequisito.cs",
@@ -477,12 +485,11 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Curso_Prerequisito\\Curso_Prerequisito.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T14:08:11.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T14:08:11.59Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "Ticket_CategoriaCreatedEvent.cs",
               "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Ticket_Categoria\\Ticket_CategoriaCreatedEvent.cs",
               "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Ticket_Categoria\\Ticket_CategoriaCreatedEvent.cs",
@@ -490,12 +497,11 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Ticket_Categoria\\Ticket_CategoriaCreatedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T10:55:44.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T10:55:44.719Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Ticket_Categoria.cs",
               "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Ticket_Categoria\\Ticket_Categoria.cs",
               "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Ticket_Categoria\\Ticket_Categoria.cs",
@@ -503,12 +509,11 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Ticket_Categoria\\Ticket_Categoria.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T10:49:50.605Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T10:49:50.605Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Aula_HorariosDeletedEvent.cs",
               "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Aula_Horarios\\Aula_HorariosDeletedEvent.cs",
               "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Aula_Horarios\\Aula_HorariosDeletedEvent.cs",
@@ -516,12 +521,11 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Aula_Horarios\\Aula_HorariosDeletedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T13:48:19.127Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T13:48:19.127Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Aula_HorariosCreatedEvent.cs",
               "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Aula_Horarios\\Aula_HorariosCreatedEvent.cs",
               "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Aula_Horarios\\Aula_HorariosCreatedEvent.cs",
@@ -529,12 +533,11 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Aula_Horarios\\Aula_HorariosCreatedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T13:47:59.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T13:47:59.417Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Aula_HorariosUpdatedEvent.cs",
               "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Aula_Horarios\\Aula_HorariosUpdatedEvent.cs",
               "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Aula_Horarios\\Aula_HorariosUpdatedEvent.cs",
@@ -542,12 +545,11 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Aula_Horarios\\Aula_HorariosUpdatedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T13:48:09.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T13:48:09.204Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "IAula_HorariosRepository.cs",
               "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Aula_Horarios\\IAula_HorariosRepository.cs",
               "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Aula_Horarios\\IAula_HorariosRepository.cs",
@@ -555,12 +557,11 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Aula_Horarios\\IAula_HorariosRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T13:48:41.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T13:48:41.972Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Aula_Horarios.cs",
               "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Aula_Horarios\\Aula_Horarios.cs",
               "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Aula_Horarios\\Aula_Horarios.cs",
@@ -568,12 +569,11 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Aula_Horarios\\Aula_Horarios.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAAYwDsAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T13:47:52.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T13:47:52.611Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Profesor_Horas.cs",
               "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Profesor_Horas\\Profesor_Horas.cs",
               "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Profesor_Horas\\Profesor_Horas.cs",
@@ -581,12 +581,11 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Profesor_Horas\\Profesor_Horas.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T13:26:22.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T13:26:22.111Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "IProfesor_HorasRepository.cs",
               "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Profesor_Horas\\IProfesor_HorasRepository.cs",
               "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Profesor_Horas\\IProfesor_HorasRepository.cs",
@@ -594,12 +593,11 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Profesor_Horas\\IProfesor_HorasRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T13:44:09.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T13:44:09.298Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Profesor_HorasDeletedEvent.cs",
               "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Profesor_Horas\\Profesor_HorasDeletedEvent.cs",
               "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Profesor_Horas\\Profesor_HorasDeletedEvent.cs",
@@ -607,12 +605,11 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Profesor_Horas\\Profesor_HorasDeletedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T13:26:46.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T13:26:46.951Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Profesor_HorasCreatedEvent.cs",
               "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Profesor_Horas\\Profesor_HorasCreatedEvent.cs",
               "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Profesor_Horas\\Profesor_HorasCreatedEvent.cs",
@@ -620,12 +617,11 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Profesor_Horas\\Profesor_HorasCreatedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T13:26:29.615Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T13:26:29.615Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Profesor_HorasUpdatedEvent.cs",
               "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Profesor_Horas\\Profesor_HorasUpdatedEvent.cs",
               "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Profesor_Horas\\Profesor_HorasUpdatedEvent.cs",
@@ -633,12 +629,11 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Profesor_Horas\\Profesor_HorasUpdatedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T13:26:39.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T13:26:39.35Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Dia_Semana.cs",
               "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Shared\\Value_Objects\\Dia_Semana.cs",
               "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Shared\\Value_Objects\\Dia_Semana.cs",
@@ -646,12 +641,11 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Shared\\Value_Objects\\Dia_Semana.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T13:33:11.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T13:33:11.793Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Nombres.cs",
               "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Shared\\Value_Objects\\Nombres.cs",
               "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Shared\\Value_Objects\\Nombres.cs",
@@ -659,12 +653,11 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Shared\\Value_Objects\\Nombres.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAA8wCEAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T13:35:24.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T13:35:24.983Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Direccion.cs",
               "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Shared\\Value_Objects\\Direccion.cs",
               "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Shared\\Value_Objects\\Direccion.cs",
@@ -672,12 +665,11 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Shared\\Value_Objects\\Direccion.cs",
               "ViewState": "AgIAAFkAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T13:34:25.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T13:34:25.592Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "Correo.cs",
               "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Shared\\Value_Objects\\Correo.cs",
               "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Shared\\Value_Objects\\Correo.cs",
@@ -685,12 +677,11 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Shared\\Value_Objects\\Correo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T13:33:18.574Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T13:33:18.574Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "Curso_HorarioDeletedEvent.cs",
               "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Curso_Horario\\Curso_HorarioDeletedEvent.cs",
               "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Curso_Horario\\Curso_HorarioDeletedEvent.cs",
@@ -698,12 +689,11 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Curso_Horario\\Curso_HorarioDeletedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T13:11:02.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T13:11:02.74Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "Curso_HorarioUpdatedEvent.cs",
               "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Curso_Horario\\Curso_HorarioUpdatedEvent.cs",
               "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Curso_Horario\\Curso_HorarioUpdatedEvent.cs",
@@ -711,12 +701,11 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Curso_Horario\\Curso_HorarioUpdatedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T13:10:55.227Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T13:10:55.227Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "Curso_HorarioCreatedEvent.cs",
               "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Curso_Horario\\Curso_HorarioCreatedEvent.cs",
               "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Curso_Horario\\Curso_HorarioCreatedEvent.cs",
@@ -724,12 +713,11 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Curso_Horario\\Curso_HorarioCreatedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T13:10:45.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T13:10:45.053Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "ICurso_HorarioRepository.cs",
               "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Curso_Horario\\ICurso_HorarioRepository.cs",
               "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Curso_Horario\\ICurso_HorarioRepository.cs",
@@ -737,12 +725,11 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Curso_Horario\\ICurso_HorarioRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T13:11:16.381Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T13:11:16.381Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "Curso_Horario.cs",
               "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Curso_Horario\\Curso_Horario.cs",
               "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Curso_Horario\\Curso_Horario.cs",
@@ -750,21 +737,7 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Curso_Horario\\Curso_Horario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T13:10:31.298Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "Ciclo.cs",
-              "DocumentMoniker": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Ciclo\\Ciclo.cs",
-              "RelativeDocumentMoniker": "PORTAL_ACADEMICO\\Ciclo\\Ciclo.cs",
-              "ToolTip": "C:\\Users\\manue\\OneDrive\\Escritorio\\Diarso\\PORTAL_ACADEMICO_BACKEND\\PORTAL_ACADEMICO\\Ciclo\\Ciclo.cs",
-              "RelativeToolTip": "PORTAL_ACADEMICO\\Ciclo\\Ciclo.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBsAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T13:09:20.607Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T13:10:31.298Z"
             },
             {
               "$type": "Document",
@@ -776,8 +749,7 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Mensualidad\\Mensualidad.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAA1wD8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T12:49:23.352Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T12:49:23.352Z"
             },
             {
               "$type": "Document",
@@ -789,8 +761,7 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Mensualidad\\MensualidadCreatedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T12:49:35.416Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T12:49:35.416Z"
             },
             {
               "$type": "Document",
@@ -802,8 +773,7 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Mensualidad\\MensualidadDeletedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T12:49:53.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T12:49:53.895Z"
             },
             {
               "$type": "Document",
@@ -815,8 +785,7 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Mensualidad\\MensualidadUpdatedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T12:49:42.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T12:49:42.94Z"
             },
             {
               "$type": "Document",
@@ -828,8 +797,7 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Mensualidad\\IMensualidadRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T12:50:54.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T12:50:54.12Z"
             },
             {
               "$type": "Document",
@@ -841,8 +809,7 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Curso_Horario_Calificaciones_Notas\\Curso_Horario_Calificaciones_Notas.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAzwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T12:38:25.601Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T12:38:25.601Z"
             },
             {
               "$type": "Document",
@@ -854,8 +821,7 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Curso_Horario_Calificaciones_Notas\\Curso_Horario_Calificaciones_NotasDeletedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T12:38:52.448Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T12:38:52.448Z"
             },
             {
               "$type": "Document",
@@ -867,8 +833,7 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Curso_Horario_Calificaciones_Notas\\Curso_Horario_Calificaciones_NotasCreatedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T12:38:33.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T12:38:33.902Z"
             },
             {
               "$type": "Document",
@@ -880,8 +845,7 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Curso_Horario_Calificaciones_Notas\\Curso_Horario_Calificaciones_NotasUpdatedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T12:38:43.52Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T12:38:43.52Z"
             },
             {
               "$type": "Document",
@@ -893,8 +857,7 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Curso_Horario_Calificaciones_Notas\\ICurso_Horario_Calificaciones_NotasRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T12:39:06.536Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T12:39:06.536Z"
             },
             {
               "$type": "Document",
@@ -906,8 +869,7 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Curso_Horario_Calificaciones\\ICurso_Horario_CalificacionesRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T12:29:22.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T12:29:22.67Z"
             },
             {
               "$type": "Document",
@@ -919,8 +881,7 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Curso_Horario_Calificaciones\\Curso_Horario_CalificacionesDeletedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T12:29:08.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T12:29:08.653Z"
             },
             {
               "$type": "Document",
@@ -932,8 +893,7 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Curso_Horario_Calificaciones\\Curso_Horario_CalificacionesUpdatedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T12:28:59.765Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T12:28:59.765Z"
             },
             {
               "$type": "Document",
@@ -945,8 +905,7 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Curso_Horario_Calificaciones\\Curso_Horario_Calificaciones.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T12:28:40.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T12:28:40.091Z"
             },
             {
               "$type": "Document",
@@ -958,8 +917,7 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Curso_Horario_Calificaciones\\Curso_Horario_CalificacionesCreatedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T12:28:47.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T12:28:47.566Z"
             },
             {
               "$type": "Document",
@@ -971,8 +929,7 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Ciclo_Resumen_Notas\\Ciclo_Resumen_NotasDeletedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T11:30:15.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T11:30:15.091Z"
             },
             {
               "$type": "Document",
@@ -984,8 +941,7 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Ciclo_Resumen_Notas\\Ciclo_Resumen_Notas.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T11:29:43.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T11:29:43.701Z"
             },
             {
               "$type": "Document",
@@ -997,8 +953,7 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Ciclo_Resumen_Notas\\Ciclo_Resumen_NotasCreatedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T11:29:55.898Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T11:29:55.898Z"
             },
             {
               "$type": "Document",
@@ -1010,8 +965,7 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Ciclo_Resumen_Notas\\Ciclo_Resumen_NotasUpdatedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T11:30:06.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T11:30:06.645Z"
             },
             {
               "$type": "Document",
@@ -1023,8 +977,7 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Ciclo_Resumen_Notas\\ICiclo_Resumen_NotasRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T11:30:34.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T11:30:34.431Z"
             },
             {
               "$type": "Document",
@@ -1036,8 +989,7 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Pago_Transaccion\\Pago_TransaccionDeletedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T11:13:20.222Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T11:13:20.222Z"
             },
             {
               "$type": "Document",
@@ -1049,8 +1001,7 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Pago_Transaccion\\Pago_Transaccion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T11:12:50.647Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T11:12:50.647Z"
             },
             {
               "$type": "Document",
@@ -1062,8 +1013,7 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Pago_Transaccion\\Pago_TransaccionCreatedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T11:12:58.883Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T11:12:58.883Z"
             },
             {
               "$type": "Document",
@@ -1075,8 +1025,7 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Pago_Transaccion\\Pago_TransaccionUpdatedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T11:13:06.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T11:13:06.28Z"
             },
             {
               "$type": "Document",
@@ -1088,8 +1037,7 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Pago_Transaccion\\IPago_TransaccionRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T11:13:32.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T11:13:32.733Z"
             },
             {
               "$type": "Document",
@@ -1101,8 +1049,7 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Ticket\\ITicketRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-30T12:25:05.411Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-30T12:25:05.411Z"
             },
             {
               "$type": "Document",
@@ -1114,8 +1061,7 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Alumno_Pagos\\Alumno_Pagos.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAA3wEMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T11:01:00.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T11:01:00.94Z"
             },
             {
               "$type": "Document",
@@ -1127,8 +1073,7 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Alumno_Pagos\\Alumno_PagosDeletedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T11:01:52.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T11:01:52.671Z"
             },
             {
               "$type": "Document",
@@ -1140,12 +1085,7 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Alumno_Pagos\\Alumno_PagosCreatedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T11:01:12.849Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "WhenOpened": "2026-07-01T11:01:12.849Z"
             },
             {
               "$type": "Document",
@@ -1157,8 +1097,7 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Alumno_Pagos\\IAlumno_PagosRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T11:02:08.39Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T11:02:08.39Z"
             },
             {
               "$type": "Document",
@@ -1170,8 +1109,7 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Curso_Agregado_Alumno\\ICurso_Agregado_AlumnoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T10:49:36.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T10:49:36.68Z"
             },
             {
               "$type": "Document",
@@ -1183,8 +1121,7 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Curso_Agregado_Alumno\\Curso_Agregado_AlumnoDeletedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T10:49:18.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T10:49:18.053Z"
             },
             {
               "$type": "Document",
@@ -1196,8 +1133,7 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Curso_Agregado_Alumno\\Curso_Agregado_AlumnoUpdatedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T10:49:10.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T10:49:10.54Z"
             },
             {
               "$type": "Document",
@@ -1209,8 +1145,7 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Curso_Agregado_Alumno\\Curso_Agregado_Alumno.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T10:48:43.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T10:48:43.842Z"
             },
             {
               "$type": "Document",
@@ -1222,8 +1157,7 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Matricula\\Matricula.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T10:49:44.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T10:49:44.236Z"
             },
             {
               "$type": "Document",
@@ -1235,8 +1169,7 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Curso_Agregado_Alumno\\Curso_Agregado_AlumnoCreatedEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T10:48:56.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T10:48:56.823Z"
             },
             {
               "$type": "Document",
@@ -1248,8 +1181,7 @@
               "RelativeToolTip": "PORTAL_ACADEMICO\\Profesor\\IProfesorRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-01T10:46:30.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-01T10:46:30.599Z"
             },
             {
               "$type": "Document",

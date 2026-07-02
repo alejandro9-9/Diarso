@@ -13,6 +13,6 @@ public static class MatriculaErrors
   
 
     public static readonly Error DiferenciaMaxima = new(
-        "Ciclo.DiferenciaMaxima",
+        "Matricula.DiferenciaMaxima",
         "No puede haber más de 1 mes de diferencia entre las fechas");
 }
